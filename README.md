@@ -49,8 +49,6 @@ I'm a self-taught developer building real projects while finishing school. I don
 
 ## 🌏 About Me
 
-- 📍 Based in **Bhopal, India** — also hold **New Zealand PR** (available for remote roles globally)
-- 🎓 12th grade PCM student — building my career in parallel, not after
 - 💡 I learn by building. Every project teaches me something a tutorial never could
 - 🏋️ When I'm not coding — gym, biking, or plotting the next project idea
 
