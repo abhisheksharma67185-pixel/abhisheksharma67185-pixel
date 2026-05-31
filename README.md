@@ -1,6 +1,6 @@
 # Hey, I'm Abhishek Sharma 👋
 
-**Aspiring Python Developer | Fullstack in Progress | 18 | India 🇮🇳 + New Zealand 🇳🇿**
+** Fullstack Developer **
 
 I'm a self-taught developer building real projects while finishing school. I don't wait for a degree to start — I build, break things, fix them, and learn fast. Currently on a focused path to backend + fullstack development with Python and JavaScript.
 
