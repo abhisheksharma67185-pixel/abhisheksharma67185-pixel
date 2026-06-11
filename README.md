@@ -4,16 +4,7 @@
 
 I'm a self-taught developer building real projects while finishing school. I don't wait for a degree to start — I build, break things, fix them, and learn fast. Currently on a focused path to backend + fullstack development with Python and JavaScript.
 
----
 
-## 🚀 What I'm Working On
-
-- 🐍 Completing **FreeCodeCamp Python Certification**
-- ⚙️ Building projects that go beyond tutorials — real problems, real solutions
-- 📚 Learning **FastAPI** for backend + **React** for frontend
-- 🎯 Target: Remote internship at a **US startup**
-
----
 
 ## 🛠️ Tech Stack
 
