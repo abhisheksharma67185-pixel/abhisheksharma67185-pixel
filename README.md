@@ -42,6 +42,8 @@ I'm a self-taught developer building real projects while finishing school. I don
 | [Password Generator](https://github.com/abhisheksharma67185-pixel/Password-Generator) | Secure random password generator with custom length options | Python |
 | [CLI To-Do List](https://github.com/abhisheksharma67185-pixel/CLI-To-Do-List) | Terminal task manager with full CRUD operations | Python |
 | [Mini Chatbot](https://github.com/abhisheksharma67185-pixel/Mini-Chatbot) | Rule-based conversational CLI chatbot | Python |
+| [Jira Core Workspace](https://jira-clone-g0rd2k5gb-abhisheksharma67185-pixels-projects.vercel.app) | Project management board highlighting rapid goal filtering and tracking pipelines. | React, TypeScript, Supabase |
+| [Linear Workspace](https://linear-clone-linear-5rh7-a57t3lm8d.vercel.app) | Streamlined issue-tracking client interface with dynamic search indices and custom keyboard loops. | Node.js, Express, PostgreSQL |
 
 > 🔨 More projects coming — web scraper, price tracker, and a fullstack app in progress.
 
